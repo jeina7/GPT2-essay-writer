@@ -1,0 +1,13 @@
+*.csv
+.ipynb_checkpoints/
+__pycache__/
+no_use_notebooks/
+.DS_Store
+data.txt
+model-7760000*
+*.pyc
+crawled_data_*.hdf5
+checkpoint/
+text_data/
+text_data_1/
+text_data_2/
