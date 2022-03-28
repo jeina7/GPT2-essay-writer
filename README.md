@@ -1,16 +1,14 @@
 # [AI x Bookathon: 인공지능과 함께 글쓰기]
+
 #### 팀 ELC39 ([정민정](https://github.com/jeina7), [김형준](https://github.com/khj68), [김승태](https://github.com/kim-seungtae))
 
-
-성균관대학교와 마인즈랩이 협약을 맺고 주최한 [AI x Bookathon]에서 사용한 소스코드 레포입니다.   
+성균관대학교와 마인즈랩이 협약을 맺고 주최한 [AI x Bookathon]에서 사용한 소스코드 레포입니다.  
 대회의 내용은 지난 2월 OpenAI에서 발표한 GPT-2 모델을 학습시켜 하나의 수필 작품을 완성해내는 프로젝트로, 더 자세한 내용은 [블로그](https://jeinalog.tistory.com/entry/AI-x-Bookathon-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%84-%EC%88%98%ED%95%84-%EC%9E%91%EA%B0%80%EB%A1%9C-%ED%95%99%EC%8A%B5%EC%8B%9C%EC%BC%9C%EB%B3%B4%EC%9E%90)에서, 발표자료는 [이 곳](https://www.slideshare.net/MinjungChung1/ai-bookathon-public)에서 확인하실 수 있습니다.
 
-
-　   
-
-
+모델이 생성한 에세이 전문은 [여기](https://github.com/jeina7/GPT2-essay-writer/blob/main/full_essay.md)에서 확인하실 수 있습니다.
 
 ### 모델이 생성한 문장 샘플
+
 - 오늘의 실패가 거울에 비치고 매번 똑같은 표정을 짓고 있는 모습에 나는 한없이 작아졌다.
 - 허물어지고 보니 세월은 삼천을 지나온 것 같다. 세월은 예나 지금이나 흔적을 보이지 않는다.
 - 궁핍할 때는 맛보기만 해도 배부르셨는데 지금은 흔치 않은, 깊은 산 자락에서 단 한 번의 해변도 가지 못하고 쓸쓸히 계셨던 아버지를 그려본다.
@@ -23,13 +21,4 @@
 - 그동안 잘해 왔는가 늘 마음에 걸리셨던 어머니. 나를 낳고 지금껏 살아오는 동안 얼마나 참담했을까. 어머니는 내게 모든 것을 딛고 일어서라고 말씀하셨다. 나는 끝내 눈물을 쏟아야 했다.
 - 욕심없는 마음으로 번민의 보배목이 되어 나의 품위를 다듬고, 나의 등불같은 삶을 풍요롭게 가꾸면 되는대로 살아가면 되는 것이겠지.
 
-
-　   
-
-
-
-
 <a href="https://jeinalog.tistory.com/25"><img src="./ai_bookathon.png" width="500" style="display: block; margin: 0 auto;"></a>
-
-
-　   
